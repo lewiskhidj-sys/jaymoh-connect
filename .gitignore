@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+
+# Databases and private data
+data/*.db
+data/*.sqlite
+data/*.sqlite3
+.env
+.env.*
+*.pem
+*.key
+
+# Backups and archives
+backups/
+*.bak
+*.bak-*
+*.tar
+*.tar.gz
+*.zip
+
+# Logs and temporary files
+*.log
+.tmp/
+.temp/
